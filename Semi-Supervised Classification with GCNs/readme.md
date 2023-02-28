@@ -38,16 +38,16 @@ Run exec.py
 
 original (acc: 82.3%)
 
-<img src="D:\Project\GNNs-trail\Semi-Supervised Classification with GCNs\asset\2-layer-GCN.png" alt="2-layer-GCN" style="zoom:12%;" />
+<img src="./asset/2-layer-GCN.png" alt="2-layer-GCN" style="zoom:12%;" />
 
 with 5 layers (acc: 77.6%)
 
-<img src="D:\Project\GNNs-trail\Semi-Supervised Classification with GCNs\asset\5-layer GCN.png" alt="5-layer GCN" style="zoom:12%;" />
+<img src="./asset/5-layer GCN.png" alt="5-layer GCN" style="zoom:12%;" />
 
 5 layers with up&down sampling (acc: 66.1%)
 
-<img src="D:\Project\GNNs-trail\Semi-Supervised Classification with GCNs\asset\5-layer GCN(Novel).png" alt="5-layer GCN(Novel)" style="zoom:12%;" />
+<img src="./asset/5-layer GCN(Novel).png" alt="5-layer GCN(Novel)" style="zoom:12%;" />
 
 with 8 layers (acc: , 27.7%)
 
-<img src="D:\Project\GNNs-trail\Semi-Supervised Classification with GCNs\asset\8-layer GCN.png" alt="8-layer GCN" style="zoom:12%;" />
+<img src="./asset/8-layer GCN.png" alt="8-layer GCN" style="zoom:12%;" />
